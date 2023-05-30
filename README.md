@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lone2005Shinobi
 - 👀 I’m interested in Solving new questions and competitive coding.
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++,DSA,HTML,CSS,Javascript and Web Development
 - 💞️ I’m looking to collaborate on different projects of my interest.
 
 
